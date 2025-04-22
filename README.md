@@ -54,7 +54,7 @@ pip install apscheduler pystray pillow
 ## 📝 File Structure
 
 📦 TaskScheduler/
- ┣ 📜 task_scheduler.exe       # Main application executable file
+ ┣ 📜 task_scheduler.py        # Main application script
  ┣ 📜 schedules.json           # Auto-created file to store scheduled jobs
  ┣ 📜 log.txt                  # Auto-created log file for execution/errors
  ┗ 📜 README.md                # This file
